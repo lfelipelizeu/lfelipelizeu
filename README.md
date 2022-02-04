@@ -4,7 +4,7 @@ Born in Taubaté - SP, Brazil, I'm 23 years, soccer and animes lover. I'm studyi
 
 - 🔭 I’m currently studying full stack development
 - 🌱 I’m currently learning SOLID principles
-- 📫 How to reach me: felipelizeu@gmail.com
+- 📫 How to reach me: felipelizeu@gmail.com or l_felipelizeu@hotmail.com
 - 😄 Pronouns: He/His
 
 ## Languages and Tools
